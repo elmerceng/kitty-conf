@@ -1,2 +1,2 @@
 # kitty-conf
-kitty terminal configuration
+[kitty](https://github.com/kovidgoyal/kitty) terminal configuration
